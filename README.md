@@ -1,5 +1,6 @@
 # Plant-disease-Identification
 this repository consists of a code part as well as a word file which explains you step by step guide so that you can 
+create you own project based over these idea.
 Now here these repository is a code section of our Plant disease project
 it is dived into 3 sections 
 Now here a first we are going to deal with preprocessing part where we are loading our images
